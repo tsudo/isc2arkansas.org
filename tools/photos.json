@@ -1,0 +1,17 @@
+{
+  "source_dir": "../../inputs/wp-media/photos",
+  "picks": [
+    {"n": 1,  "caption": "Chapter meetup, October 2023", "alt": "About twenty chapter members standing together for a group photo at an evening meetup"},
+    {"n": 3,  "caption": "Chapter meetup, October 2023", "alt": "Members talking around a table at a meetup"},
+    {"n": 4,  "caption": "Conference booth, October 2023", "alt": "Two chapter members standing at a conference exhibit booth"},
+    {"n": 13, "caption": "Chapter booth, April 2024", "alt": "Members gathered at the ISC2 Arkansas chapter table, with the chapter banner behind them"},
+    {"n": 11, "caption": "Networking social, April 2024", "alt": "A crowd of members networking among brewery tanks"},
+    {"n": 14, "caption": "Chapter banner, June 2024", "alt": "ISC2 Arkansas chapter pull-up banner reading Connect, Educate, Inspire, Secure"},
+    {"n": 17, "caption": "Chapter social, June 2024", "alt": "Members laughing together at a table"},
+    {"n": 21, "caption": "Chapter dinner, June 2024", "alt": "Wide view of a dinner meeting with members seated at round tables"},
+    {"n": 24, "caption": "Chapter dinner, June 2024", "alt": "Members seated around a dinner table, one giving a thumbs up"},
+    {"n": 35, "caption": "Chapter social, October 2024", "alt": "Two members standing in front of sponsor banners at a brewery"},
+    {"n": 36, "caption": "Chapter social, October 2024", "alt": "Three members talking at a high-top table"},
+    {"n": 40, "caption": "Chapter social, October 2024", "alt": "Three members posing together at an evening event"}
+  ]
+}

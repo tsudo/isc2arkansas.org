@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /photo-review/
+
+Sitemap: https://isc2arkansas.org/sitemap.xml

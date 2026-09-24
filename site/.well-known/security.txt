@@ -1,0 +1,4 @@
+Contact: mailto:info@isc2arkansas.org
+Expires: 2027-09-24T00:00:00Z
+Preferred-Languages: en
+Canonical: https://isc2arkansas.org/.well-known/security.txt

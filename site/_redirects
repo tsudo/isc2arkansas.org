@@ -1,0 +1,23 @@
+# Old WordPress URLs -> new locations. Source of truth: specs/spec.md § URL map.
+/about/                  /#about        301
+/about                   /#about        301
+/membership/             /#membership   301
+/membership              /#membership   301
+/docs/                   /#documents    301
+/events                  /#meetings     301
+/events/                 /#meetings     301
+/blog/                   /              301
+/blog                    /              301
+/inaugural-meetup/       /              301
+/chapter-meeting-nov-4/  /              301
+/jobs/                   /#contact      301
+/job-dashboard/          /#contact      301
+/privacy-policy/         /privacy/      301
+/feed/                   /              301
+/feed                    /              301
+/comments/feed/          /              301
+/link/linkedin           https://www.linkedin.com/groups/9179062/  302
+/wp-content/uploads/2022/05/ISC2_Arkansas_MembershipForm_fillable_2022-05-26.pdf  /docs/isc2-arkansas-membership-form.pdf  301
+/wp-content/uploads/2022/05/ISC2_Chapter-Membership-Guidelines.pdf  /docs/isc2-chapter-membership-guidelines.pdf  301
+/wp-content/uploads/2022/05/ISC2_Official-Chapter-Handbook.pdf  /docs/isc2-official-chapter-handbook.pdf  301
+/wp-content/uploads/2022/09/ISC2_Arkansas-Chapter-Bylaws.pdf  /docs/isc2-arkansas-chapter-bylaws.pdf  301
