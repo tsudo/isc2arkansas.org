@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Chapter questions (meetings, membership, officers)
+    url: mailto:info@isc2arkansas.org
+    about: Email the chapter. This repository only tracks problems with the website.
+  - name: Security report
+    url: https://github.com/tsudo/isc2arkansas.org/security/advisories/new
+    about: Report privately. Do not open a public issue.

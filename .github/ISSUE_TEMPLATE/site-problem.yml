@@ -1,0 +1,17 @@
+name: Website problem
+description: A broken link, typo, layout bug, or accessibility issue on isc2arkansas.org
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page or section
+      placeholder: "https://isc2arkansas.org/#membership"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: What you expected and what you saw. Include your browser and device for layout issues.
+    validations:
+      required: true
