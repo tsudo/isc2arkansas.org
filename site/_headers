@@ -11,6 +11,3 @@
 
 /img/*
   Cache-Control: public, max-age=2592000
-
-/photo-review/*
-  X-Robots-Tag: noindex
