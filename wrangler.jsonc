@@ -1,0 +1,14 @@
+// Cloudflare Workers static-assets config. Workers Builds runs `npx wrangler deploy` on push to main.
+{
+  "name": "isc2arkansas",
+  "compatibility_date": "2026-09-23",
+  "assets": {
+    "directory": "site",
+    // Serve site/404.html with a 404 status for unknown paths.
+    "not_found_handling": "404-page"
+  },
+  // workers.dev stays on for review until the custom domain is live; set false at cutover.
+  "workers_dev": true,
+  "preview_urls": false,
+  "observability": { "enabled": true }
+}

@@ -1,10 +1,10 @@
 # isc2arkansas.org
 
-The static site for the ISC2 Arkansas chapter. It is plain HTML and CSS, with no build step. Cloudflare Pages serves the `site/` folder as-is.
+The static site for the ISC2 Arkansas chapter. It is plain HTML and CSS, with no build step. Cloudflare Workers (static assets) serves the `site/` folder as-is; `wrangler.jsonc` holds the config.
 
 ## Edit content
 
-Edit `site/index.html` or `site/privacy/index.html`, then push to `main`. Pages deploys on push.
+Edit `site/index.html` or `site/privacy/index.html`, then push to `main`. Workers Builds deploys on push.
 
 ## Change the photos
 
@@ -19,7 +19,7 @@ Add `--review` to rebuild `site/photo-review/`, a numbered page showing every so
 py -3.14 -m http.server 8125 --directory site
 ```
 
-The local server ignores `_redirects` and `_headers`. Check those on the `*.pages.dev` deploy.
+The local server ignores `_redirects` and `_headers`. Check those on the `workers.dev` deploy.
 
 ## Checks
 

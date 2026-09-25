@@ -11,7 +11,7 @@ Please do not open a public issue for a security report.
 
 ## Scope
 
-This is a static site served by Cloudflare Pages. It has no forms, accounts, or server-side code. Reports are welcome for:
+This is a static site served by Cloudflare Workers static assets. It has no forms, accounts, or server-side code. Reports are welcome for:
 
 - Content Security Policy or security-header weaknesses (`site/_headers`)
 - Open redirects in `site/_redirects`
